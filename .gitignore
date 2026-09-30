@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Datasets and outputs
+data/*
+*.hdf5
+*.h5
+*.npy
+!.gitkeep
+
+# Environments
+.venv
+venv/
+ENV/
+env/
+.conda
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store

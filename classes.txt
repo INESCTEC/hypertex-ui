@@ -1,0 +1,10 @@
+1 Desconhecido
+2 Algodao
+3 La
+4 Liocel
+5 Viscose
+6 Poliester
+7 Linho
+8 Elastano
+9 Poliamida
+10 Acrilico

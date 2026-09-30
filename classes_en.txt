@@ -1,0 +1,10 @@
+1 Unknown
+2 Cotton
+3 Wool
+4 Lyocell
+5 Viscose
+6 Polyester
+7 Linen
+8 Elastane
+9 Polyamide
+10 Acrylic
